@@ -6,7 +6,7 @@
 
 ## 📸 Demonstração
 <!-- Adicione um print da tela do seu programa aqui -->
-![Screenshot da Aplicação](screenshot.png)
+![Screenshot da Aplicação](titanicsys.png)
 
 ---
 
