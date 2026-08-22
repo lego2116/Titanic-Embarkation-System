@@ -23,7 +23,7 @@ As probabilidades foram baseadas em dados históricos do desastre e fundamentada
 ---
 
 ## ✨ Funcionalidades
-* Interface gráfica personalizada em Java Swing com estilo de época (Madeira e Pergaminho).
+* Interface gráfica personalizada em Java Swing com estilo de época.
 * Validação estrita de campos (bloqueio de caracteres não numéricos na idade e prevenção de seleções conflitantes).
 * Registro em tempo real no Diário de Bordo com numeração sequencial.
 * Cálculo imediato da probabilidade de sobrevivência ao cadastrar.
